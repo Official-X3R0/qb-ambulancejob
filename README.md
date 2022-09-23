@@ -1,7 +1,7 @@
 # qb-ambulancejob
 EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
 
-Edited version without laststand and changed dead animation
+```Edited version without laststand and changed dead animation```
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core) (Required)
