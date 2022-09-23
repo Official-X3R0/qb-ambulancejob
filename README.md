@@ -3,6 +3,8 @@ EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
 
 ```Edited version without laststand and changed dead animation```
 
+## Preview
+
 https://prnt.sc/cwY5wNc-K5h6
 
 https://prnt.sc/c6CXHM4YDm2b
